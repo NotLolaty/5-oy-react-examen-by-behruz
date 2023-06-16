@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "All Natural Makeup Beauty Cosmetics",
+      "price": 11.9,
+      "category": "new products",
+      "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/pfi/pfi10568/v/54.jpg"
+    },
+    {
+      "id": 2,
+      "title": "On Trend Makeup and Beauty Cosmetics",
+      "price": 22.3,
+      "category": "new products",
+      "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/asp/asp00836/v/25.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Cosmetics and Beauty brand Shoppe",
+      "price": 55.99,
+      "category": "new products",
+      "image": "https://cdn.shopify.com/s/files/1/0076/7875/4852/products/LASH_BROW_c317bcf6-fabb-4dee-aa61-b8dd3d1381c7_2000x.png?v=1603776592"
+    },
+    {
+      "id": 4,
+      "title": "orginal Age Defying Cosmetics Makeup",
+      "price": 15.99,
+      "category": "onsale",
+      "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/ect/ect03220/v/5.jpg"
+    },
+    {
+      "id": 5,
+      "title": "All Natural Makeup Beauty Cosmetics",
+      "price": 41.89,
+      "category": "onsale",
+      "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/elf/elf83112/v/25.jpg"
+    },
+    {
+      "id": 6,
+      "title": "On Trend Makeup and Beauty Cosmetics",
+      "price": 73.32,
+      "category": "onsale",
+      "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/mou/mou00048/v/9.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Cosmetics and Beauty brand Shoppe",
+      "price": 86.52,
+      "category": "upcoming products",
+      "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/elf/elf81346/v/14.jpg"
+    },
+    {
+      "id": 8,
+      "title": "orginal Age Defying Cosmetics Makeup",
+      "price": 100,
+      "category": "upcoming products",
+      "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/rom/rom24047/v/11.jpg"
+    }
+  ]
+}

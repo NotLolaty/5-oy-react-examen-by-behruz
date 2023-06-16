@@ -1,0 +1,56 @@
+* {
+  scroll-behavior: smooth;
+  object-fit: contain;
+}
+
+.cool-hover-text {
+  transition: all 0.4s ease;
+  cursor: pointer;
+}
+
+.cool-hover-text:hover {
+  color: #5a5ac9;
+}
+
+.cool-hover {
+  transition: all 0.4s ease;
+}
+
+.cool-hover:hover {
+  margin-top: -8px;
+  color: #5a5ac9;
+  padding: 1.5px;
+  border-radius: 6px;
+}
+
+.cool-hover1 {
+  transition: all 0.4s ease;
+}
+
+.cool-hover1:hover {
+  background-color: #4b4ba8;
+  margin-top: -10px;
+  padding: 1.5px 5px;
+  border-radius: 6px;
+}
+
+.cool-hover2 {
+  transition: all 0.4s ease;
+}
+
+.cool-hover2:hover {
+  -webkit-box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.2);
+  margin-top: -10px;
+  padding: 1.5px 5px;
+  border-radius: 6px;
+}
+
+.box {
+  display: flex;
+}
+
+.footer-text {
+  color: #505050;
+}

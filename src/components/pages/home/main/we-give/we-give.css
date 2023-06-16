@@ -1,0 +1,23 @@
+.Text-box {
+  text-align: center;
+  display: flex;
+  gap: 10px;
+}
+
+.Text-box-title {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+}
+
+.Text-box-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}

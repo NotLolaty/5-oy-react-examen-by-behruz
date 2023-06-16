@@ -1,0 +1,62 @@
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.NavbarTop__icon-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 223px;
+}
+
+.NavbarTop__phone-img {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.NavbarTop__phone-num {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  color: #ffffff;
+}
+
+.NavbarTop__text {
+  color: white;
+}
+
+.NavbarBot__navbar-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  color: #111111;
+  transition: all 0.4s ease;
+}
+
+.black-text {
+  color: black;
+}
+
+.NavbarBot__navbar-text:hover {
+  margin-top: -3px;
+  color: #5a5ac9;
+  padding: 1.5px;
+}
+
+.NavbarBot__imgs {
+  display: flex;
+  align-items: center;
+}
